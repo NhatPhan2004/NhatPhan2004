@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nhat</h1>
+<h1 align="center">Hi 👋, I'm BlueSolis</h1>
 <h3 align="center">"A single mind. A seamless system. A powerful vision."</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style = "border-radius: 15px;">
